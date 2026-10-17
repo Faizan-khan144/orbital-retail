@@ -1,5 +1,9 @@
 # Orbital Retail — Storefront & Ops
 
+[![Contributors](https://img.shields.io/github/contributors/Faizan-khan144/orbital-retail)](https://github.com/Faizan-khan144/orbital-retail/graphs/contributors)
+[![Last commit](https://img.shields.io/github/last-commit/Faizan-khan144/orbital-retail)](https://github.com/Faizan-khan144/orbital-retail/commits/main)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
+
 A high-performance storefront wired to a real-time inventory automation pipeline. Shoppers browse a live catalog that reads directly from warehouse bins, while operators watch orders, stock, suppliers and sales channels sync in the ops console.
 
 > Hardware that runs on its own supply chain.
@@ -55,6 +59,10 @@ src/
   App.jsx       # route table
   index.css     # theme tokens + animation layer
 ```
+
+## Contributors
+
+- [Muhammad Faizan Khan](https://github.com/Faizan-khan144)
 
 ## License
 
